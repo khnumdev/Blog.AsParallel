@@ -1,0 +1,23 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Blog.AsParallelCore Console Application",
+  "authors": [ "Sito" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+  },
+
+  "commands": {
+    "Blog.AsParallelCore": "Blog.AsParallelCore"
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}
